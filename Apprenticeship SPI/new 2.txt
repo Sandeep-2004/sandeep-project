@@ -1,0 +1,9 @@
+<html>
+<head>
+</head>
+<body>
+<marquee behavior="alternate" scrollamount="20" onmouseover="stop();" onmouseover="start();">
+i love coding 
+</marquee>
+</body>
+</html>
